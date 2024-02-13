@@ -1,0 +1,29 @@
+button{
+    position: fixed;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(159, 167, 159);
+}
+ul>li
+{
+    text-decoration: none;
+    color: white; 
+}
+body{
+    
+    padding: 0;
+    margin: 0;
+}
+img{
+    border-radius: 100px;
+}
+h4 {
+    position: relative;
+    top: 16px;
+    left: -225px;
+    color: white;
+}
+h1{
+    text-transform: capitalize;}
